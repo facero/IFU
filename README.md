@@ -9,9 +9,12 @@ X-ray CCDs can measure the position, energy and time of arrival of individual ph
 Due to the low photon statistics in the ASCA days or in the early phase of the last generation of telescopes XMM-Newton and Chandra with short exposures, the visualization of the data in 3D was not explored.
 After 20 years in operation and deep Mega-second observations in the archive of bright extended sources such as Supernova Remnants (SNR) or clusters of galaxies, it is now possible to explore datasets in their true 3D nature.
 
-This is an example of ~1 Ms of Chandra observation of the Cassiopeia A SNR. About 300 millions have been recorded in 1 Ms between 0.5 and 10 keV !
-This extremly rich dataset provides unprecedented details about the spatial distribution and spectral properties of individual heavy elements producing during the supernova.
+This is an example of ~1 Ms of Chandra observation of the Cassiopeia A SNR. About 300 millions have been recorded in 1 Ms between 0.5 and 10 keV ! This extremly rich dataset provides unprecedented details about the spatial distribution and spectral properties of individual heavy elements producing during the supernova.
 
 Below is a volume rendering of the 3D CasA data cube (RA, Dec, Energy) obtained with the Chandra X-ray satellite.
 Three different viewing angles of the same cube are shown below (face-on, side, and edge-on).
 The colors (blue, yellow, and red shades) indicates a higher density i.e. brightness of X-ray photons.
+[](Cas_RA-DEC-Energy-cube.png)
+
+The face-on image (left panel) shows the spatial distribution of the X-ray emission and is comparable to classical images.
+Looking at the cube edge-on reveals a different facets of CasA revealing the distribution of individual elements via their line emission  (vertical lines), while horizontal lines indicate regions of strong continuum emission which is mostly synchrotron radiation from accelerated electrons at the shocks. At higher energies, three blobs of line emission reveal the non-uniform Fe K spatial distribution.
